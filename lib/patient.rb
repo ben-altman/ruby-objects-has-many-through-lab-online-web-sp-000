@@ -20,5 +20,5 @@ class Patient
       appt.patient == self
     end
   end
-  
+
 end
