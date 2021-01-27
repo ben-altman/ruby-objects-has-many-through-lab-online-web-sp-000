@@ -7,4 +7,5 @@ class Patient
     @@all << self
   end
 
+  def self.all? { |e|  }
 end
